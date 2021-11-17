@@ -23,3 +23,4 @@ Hello Git!
 66666666 by GitLab
 local https
 GitHub update!
+local https!
