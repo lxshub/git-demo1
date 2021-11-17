@@ -24,3 +24,4 @@ Hello Git!
 local https
 GitHub update!
 local https!
+local ssh!
